@@ -648,6 +648,9 @@ ul {
     border-radius: 50%;
     transition-duration: var(--transition-duration);
     transition-timing-function: var(--timing);
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .modal-button-close:hover,
